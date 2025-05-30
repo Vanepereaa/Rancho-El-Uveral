@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.mibarra{
+    background-color: darkgreen;
+}
+.nav-link{
+    color:beige;
+}
+.nav-link:hover{
+    color: lightseagreen!important;
+}
+
+ .Inicio {
+    height: 100vh;
+    color: white;
+    flex-direction: column;
+    justify-content:space-around;
+    padding: 0 40px;
+    background: url(/Rancho.jpg) center center/cover;
+    text-align: center;
+    display: flex;
+    }
+    .párrafo{
+      margin: 0 auto 10px;
+      max-width: 700px;
+      font-size: 18px;
+      line-height: 1.6em;
+      text-align: center ;
+     }
+    
+
+     .container{
+        margin-top: 60px;
+        height: 500px;
+     }
+
+     .parrafo-nosotros{
+        margin-bottom: 40px;
+     }
+     .card-title{
+        color: darkgreen;
+     }
+     .nosotros-titulo{
+         color: darkolivegreen;
+     }
+
+
+     
+     
+     footer{
+background-color: darkgreen;
+color: beige;
+height: 50px;
+line-height: 50px;
+text-align: center;
+     }
+     .container mt-5{
+         margin-top: 40px;
+        height: 700px;
+     }
+
+     .card-img-top{
+        height: 600px;
+     }
+
+     .carousel-item{
+        margin-top: 20px;
+     }
+     .img7{
+        height: 450px;
+     }
